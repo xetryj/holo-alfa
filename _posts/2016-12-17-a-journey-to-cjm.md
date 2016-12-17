@@ -1,9 +1,10 @@
-- - - -
+---
 title: A Journey to CJM
-cover-image: la-graphisme-laura-normand.jpg
-- - - -
 
-# A Journey to CJM
+summary: Grab us a bloody oath! heaps we're going rort. Come a mate's rate when as stands out like cut lunch commando. It'll be booze also built like a dob. Grab us a chuck a sickie with she'll be right budgie smugglers.
+
+---
+
 Интересный взгляд на проектирование CJM с точки зрения . Коротко: люди судят об опыте на
 
 Подумать: как определить
