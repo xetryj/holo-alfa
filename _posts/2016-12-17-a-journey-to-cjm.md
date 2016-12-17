@@ -23,10 +23,10 @@ wordofmouse
 6. [Daniel Kahneman — “When More Pain Is Preferred to Less: Adding a Better End.”](http://brainimaging.waisman.wisc.edu/~perlman/0903-EmoPaper/KahnemanFredricksonSchreiberRedelmeier_1993_WhenMorePainIsPreferredToLess.pdf)
 The results add to other evidence suggesting that duration plays a small role in retrospective evaluations of aversive experiences; such evaluations are often dominated by the discomfort at the worst and at the final moments of episodes.
 
-![](A Journey to CJM/F8721833-2712-4460-A458-C8CAC39899A9.png)
+![](CJM/F8721833-2712-4460-A458-C8CAC39899A9.png)
 > People judge an experience by the most intense point and the end point.  
 > The judgement is not made from the sum of the entire experience.  
 [New Packaging for Víspera Coffee by SDL — BP&O](http://bpando.org/2016/12/16/packaging-vispera-coffee/)
-![](A Journey to CJM/D7CF3B8E-8802-4158-93C0-475256EE0966.png)
+![](CJM/D7CF3B8E-8802-4158-93C0-475256EE0966.png)
 
 #uxdesign
